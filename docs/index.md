@@ -11,7 +11,7 @@ In today's digital landscape, many of our daily activities rely on the internet.
 -Object Oriented
 -Internet Security
 
-<img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="203" height="200">
+<img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="253" height="200">
 
 ```markdown
 Syntax highlighted code block
