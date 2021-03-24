@@ -42,4 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-If you have anu question you can send an e-mail to Julio.martinez.santa@gmail.com
+If you have anu question you can send any e-mail to Julio.martinez.santa@gmail.com
