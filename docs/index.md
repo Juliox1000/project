@@ -21,7 +21,7 @@ Cyber security is the practice of defending computers, servers, mobile devices, 
 
 <a href="object.htm">-Object Oriented </a>
 
--Internet Security
+<a href="internet">-Internet Security </a>
 
 <img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="253" height="200">
 
