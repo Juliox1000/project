@@ -21,8 +21,12 @@ Cyber security is the practice of defending computers, servers, mobile devices, 
 
 <a href="accesibility.htm"> -Accesibility standards </a>
 
+<img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="253" height="200">
 
 <a href="object.htm">-Object Oriented </a>
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="253" height="200">
+
 
 <a href="internet.htm">-Internet Security </a>
 
