@@ -16,8 +16,11 @@ Cyber security is the practice of defending computers, servers, mobile devices, 
 
 ### Topics
  <a href ="general.htm"> -Digital Signature </a>
+ 
 <img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="253" height="200">
+
 <a href="accesibility.htm"> -Accesibility standards </a>
+
 
 <a href="object.htm">-Object Oriented </a>
 
