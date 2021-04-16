@@ -34,27 +34,6 @@ Cyber security is important because government, military, corporate, financial, 
 
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
 ### Support or Contact
 
 If you have any question you can send an e-mail to Julio.martinez.santa@gmail.com
