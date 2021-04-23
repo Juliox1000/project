@@ -155,7 +155,7 @@ based on Web Content Accessibility Guidelines 1.0.
 
 
 
-<iframe width="590" height="350" src="https://www.youtube.com/embed/b3QCe8GD40c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="610" height="380" src="https://www.youtube.com/embed/b3QCe8GD40c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
