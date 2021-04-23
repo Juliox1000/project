@@ -1,4 +1,6 @@
-Web Content Accessibility Guidelines
+ <strong> Web Content Accessibility Guidelines </strong>
+
+
 In 1999 the Web Accessibility Initiative, a project by the World Wide Web
 Consortium (W3C), published the Web Content Accessibility Guidelines WCAG 1.0.
 On 11 December 2008, the WAI released the WCAG 2.0 as a Recommendation. WCAG
@@ -6,42 +8,69 @@ On 11 December 2008, the WAI released the WCAG 2.0 as a Recommendation. WCAG
 either standard to follow, the WCAG 2.0 have been widely accepted as the definitive
 guidelines on how to create accessible websites. Governments are steadily adopting the
 WCAG 2.0 as the accessibility standard for their own websites.
-WCAG 1.0
+
+
+<strong>WCAG 1.0 </strong>
+
+
+
 The WCAG 1.0 was published and became a W3C recommendation on 5 May 1999. They
 have since been superseded by WCAG 2.0.
 WCAG 1.0 consists of 14 guidelines—each of which describes a general principle of
 accessible design. Each guideline covers a basic theme of web accessibility and is
 associated with one or more checkpoints that describe how to apply that guideline to
 particular webpage features.
- Guideline 1: Provide equivalent alternatives to auditory and visual content
- Guideline 2: Don’t rely on colour alone
- Guideline 3: Use markup and style sheets, and do so properly
- Guideline 4: Clarify natural language usage
- Guideline 5: Create tables that transform gracefully
- Guideline 6: Ensure that pages featuring new technologies transform gracefully
- Guideline 7: Ensure user control of time sensitive content changes
- Guideline 8: Ensure direct accessibility of embedded user interfaces
- Guideline 9: Design for device independence
- Guideline 10: User interim solutions
- Guideline 11: Use W3C technologies and guidelines
- Guideline 12: Provide context and orientation information
- Guideline 13: Provide clear navigation mechanisms
- Guideline 14: Ensure that documents are clear and simple
+
+
+- Guideline 1: Provide equivalent alternatives to auditory and visual conten
+
+- Guideline 2: Don’t rely on colour alone
+
+- Guideline 3: Use markup and style sheets, and do so properly
+
+- Guideline 4: Clarify natural language usage
+
+- Guideline 5: Create tables that transform gracefully
+
+- Guideline 6: Ensure that pages featuring new technologies transform gracefully
+
+- Guideline 7: Ensure user control of time sensitive content changes
+
+- Guideline 8: Ensure direct accessibility of embedded user interfaces
+
+- Guideline 9: Design for device independence
+
+- Guideline 10: User interim solutions
+
+- Guideline 11: Use W3C technologies and guidelines
+
+- Guideline 12: Provide context and orientation information
+
+- Guideline 13: Provide clear navigation mechanisms
+
+- Guideline 14: Ensure that documents are clear and simple
+
 Each of the in total 65 WCAG 1.0 checkpoints has an assigned priority level based on the
 checkpoint's impact on accessibility:
- Priority 1: Web developers must satisfy these requirements, otherwise it will be
+
+- Priority 1: Web developers must satisfy these requirements, otherwise it will be
 impossible for one or more groups to access the Web content. Conformance to this
 level is described as A.
- Priority 2: Web developers should satisfy these requirements, otherwise some
+
+- Priority 2: Web developers should satisfy these requirements, otherwise some
 groups will find it difficult to access the Web content. Conformance to this level is
 described as AA or Double-A.
- Priority 3: Web developers may satisfy these requirements to make it easier for
+
+- Priority 3: Web developers may satisfy these requirements to make it easier for
 some groups to access the Web content. Conformance to this level is described
 as AAA or Triple-A.
-WCAG Samurai
+
+<strong>WCAG Samurai </strong>
 In February 2008, The WCAG Samurai, a group of developers independent of the W3C,
 published corrections for, and extensions to, the WCAG 1.0.
-WCAG 2.0
+
+
+<strong>WCAG 2.0</strong>
 WCAG 2.0 was published as a W3C Recommendation on 11 December 2008. It consists of
 twelve guidelines (untestable) organized under four principles (websites must
 be perceivable, operable, understandable, and robust). Each guideline has testable
@@ -49,19 +78,28 @@ success criteria (61 in all). The W3C's Techniques for WCAG 2.0 is a list of tec
 support authors to meet the guidelines and success criteria. The techniques are
 periodically updated whereas the principles, guidelines and success criteria are stable and
 do not change.
-Principles
-Perceivable
+
+
+<strong>Principles</strong>
+
+<strong>Perceivable</strong>
 Information and user interface components must be presentable to users in ways they can
 perceive.
- Guideline 1.1: Provide text alternatives for any non-text content so that it can be
+
+
+- Guideline 1.1: Provide text alternatives for any non-text content so that it can be
 changed into other forms people need, such as large print, braille, speech, symbols or
 simpler language.
- Guideline 1.2: Time-based media: Provide alternatives for time-based media.
- Guideline 1.3: Create content that can be presented in different ways (for example
+
+- Guideline 1.2: Time-based media: Provide alternatives for time-based media.
+
+- Guideline 1.3: Create content that can be presented in different ways (for example
 simpler layout) without losing information or structure.
- Guideline 1.4: Make it easier for users to see and hear content including separating
+
+- Guideline 1.4: Make it easier for users to see and hear content including separating
 foreground from background.
-Operable
+
+<strong>Operable</strong>
 User interface components and navigation must be operable.
  Guideline 2.1: Make all functionality available from a keyboard.
  Guideline 2.2: Provide users enough time to read and use content.
