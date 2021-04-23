@@ -13,16 +13,16 @@ Cyber security is important because government, military, corporate, financial, 
 
 <a href="accesibility.html"> -Accesibility standards </a>
 
-<img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="253" height="200">
+<img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="300" height="250">
 
 <a href="object.html">-Object Oriented </a>
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="253" height="200">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="300" height="250">
 
 
 <a href="internet.html">-Internet Security </a>
 
-<img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="253" height="200">
+<img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="300" height="250">
 
 
 
