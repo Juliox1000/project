@@ -9,7 +9,7 @@ Cyber security is important because government, military, corporate, financial, 
 ### Topics
  <a href ="general.html"> -Digital Signature </a>
  
-<img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="253" height="200">
+<img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="300" height="250">
 
 <a href="accesibility.html"> -Accesibility standards </a>
 
