@@ -152,3 +152,12 @@ new guidelines difficult to navigate and understand, and other argued failings.
 In Spain, UNE 139803 is the norm entrusted to regulate web accessibility. This standard is
 based on Web Content Accessibility Guidelines 1.0.
 
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b3QCe8GD40c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
