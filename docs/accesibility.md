@@ -66,11 +66,13 @@ some groups to access the Web content. Conformance to this level is described
 as AAA or Triple-A.
 
 <strong>WCAG Samurai </strong>
+
 In February 2008, The WCAG Samurai, a group of developers independent of the W3C,
 published corrections for, and extensions to, the WCAG 1.0.
 
 
 <strong>WCAG 2.0</strong>
+
 WCAG 2.0 was published as a W3C Recommendation on 11 December 2008. It consists of
 twelve guidelines (untestable) organized under four principles (websites must
 be perceivable, operable, understandable, and robust). Each guideline has testable
@@ -100,26 +102,44 @@ simpler layout) without losing information or structure.
 foreground from background.
 
 <strong>Operable</strong>
+
 User interface components and navigation must be operable.
- Guideline 2.1: Make all functionality available from a keyboard.
- Guideline 2.2: Provide users enough time to read and use content.
- Guideline 2.3: Do not design content in a way that is known to cause seizures.
- Guideline 2.4: Provide ways to help users navigate, find content, and determine
+
+- Guideline 2.1: Make all functionality available from a keyboard.
+
+- Guideline 2.2: Provide users enough time to read and use content.
+
+- Guideline 2.3: Do not design content in a way that is known to cause seizures.
+
+- Guideline 2.4: Provide ways to help users navigate, find content, and determine
 where they are.
-Understandable
+
+<strong>Understandable</strong>
+
 Information and the operation of user interface must be understandable.
- Guideline 3.1: Make text content readable and understandable.
- Guideline 3.2: Make web pages appear and operate in predictable ways.
- Guideline 3.3: Help users avoid and correct mistakes.
-Robust
+
+- Guideline 3.1: Make text content readable and understandable.
+
+- Guideline 3.2: Make web pages appear and operate in predictable ways.
+
+- Guideline 3.3: Help users avoid and correct mistakes.
+
+<strong>Robust</strong>
+
 Content must be robust enough that it can be interpreted reliably by a wide variety of user
 agents, including assistive technologies.
- Guideline 4.1.: Maximize compatibility with current and future user agents, including
+
+- Guideline 4.1.: Maximize compatibility with current and future user agents, including
 assistive technologies.
+
 WCAG 2.0 uses the same three levels of conformance (A, AA, AAA) as WCAG 1.0, but has
 redefined them. The WCAG working group maintains an extensive list of web accessibility
 techniques and common failure cases for WCAG 2.0.
-Criticism of WAI guidelines
+
+
+<strong>Criticism of WAI guidelines</strong>
+
+
 There has been criticism of the W3C process, claiming that it does not sufficiently put the
 user at the heart of the process. There was a formal objection to WCAG's original claim that
 WCAG 2.0 will address requirements for people with learning disabilities and cognitive
