@@ -9,7 +9,7 @@ Cyber security is important because government, military, corporate, financial, 
 ### Topics
   <center> <a href ="general.html"> -Digital Signature </a>  </center>
  
- <center> <img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="500" height="300">  </center>
+ <center> <img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="550" height="300">  </center>
 
 
 
@@ -18,18 +18,18 @@ Cyber security is important because government, military, corporate, financial, 
 
 
 
-<center> <img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="500" height="300">  </center>
+<center> <img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="550" height="300">  </center>
 
 <center> <a href="object.html">-Object Oriented </a>  </center>
 
 
-<center> <img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="500" height="300">  </center>
+<center> <img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="550" height="300">  </center>
 
 
 <center> <a href="internet.html">-Internet Security </a>  </center>
 
 
-<center> <img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="500" height="300"> </center>
+<center> <img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="550" height="300"> </center>
 
 
 
@@ -41,7 +41,7 @@ Cyber security is important because government, military, corporate, financial, 
 
 
 
- <center> <iframe width="700" height="400" src="https://www.youtube.com/embed/inWWhr5tnEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+ <center> <iframe width="850" height="700" src="https://www.youtube.com/embed/inWWhr5tnEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
  
  
  
