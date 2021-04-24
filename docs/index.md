@@ -9,29 +9,29 @@ Cyber security is important because government, military, corporate, financial, 
 ### Topics
   <center> <a href ="general.html"> -Digital Signature </a> </center>
  
-<img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="350" height="300">
+<center> <img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="350" height="300"> </a> </center>
 
-<a href="accesibility.html"> -Accesibility standards </a>
+<center> <a href="accesibility.html"> -Accesibility standards </a> </a> </center>
 
-<img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="350" height="300">
+<center> <img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="350" height="300"> </a> </center>
 
-<a href="object.html">-Object Oriented </a>
+<center> <a href="object.html">-Object Oriented </a> </a> </center>
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="350" height="300">
-
-
-<a href="internet.html">-Internet Security </a>
-
-<img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="350" height="300">
+<center> <img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="350" height="300"> </a> </center>
 
 
+<center> <a href="internet.html">-Internet Security </a> </a> </center>
+
+<center> <img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="350" height="300"> </a> </center>
 
 
 
 
 
 
-<iframe width="600" height="380" src="https://www.youtube.com/embed/inWWhr5tnEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+ <center> <iframe width="600" height="380" src="https://www.youtube.com/embed/inWWhr5tnEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 
 
