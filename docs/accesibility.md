@@ -64,7 +64,9 @@ described as AA or Double-A.
 - Priority 3: Web developers may satisfy these requirements to make it easier for
 some groups to access the Web content. Conformance to this level is described
 as AAA or Triple-A.
- <img src="https://www.researchgate.net/profile/Cara-Peters/publication/40999165/figure/tbl2/AS:668268792659991@1536339104935/Guidelines-number-and-sample-checkpoints-for-WCAG-10-3.png" width="300" height="250">
+
+
+ <img src="https://www.researchgate.net/profile/Cara-Peters/publication/40999165/figure/tbl2/AS:668268792659991@1536339104935/Guidelines-number-and-sample-checkpoints-for-WCAG-10-3.png" width="500" height="350">
 
   <H2> <u> <strong>-WCAG Samurai </strong> </u> </H2>
 
