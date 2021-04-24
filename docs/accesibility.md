@@ -10,7 +10,7 @@ guidelines on how to create accessible websites. Governments are steadily adopti
 WCAG 2.0 as the accessibility standard for their own websites.
 
 
-<strong>-WCAG 1.0 </strong>
+ <H3> <u> <strong>-WCAG 1.0 </strong> </u> </H3>  
 
 
 
