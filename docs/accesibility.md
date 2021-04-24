@@ -65,7 +65,7 @@ described as AA or Double-A.
 some groups to access the Web content. Conformance to this level is described
 as AAA or Triple-A.
 
-<strong>-WCAG Samurai </strong>
+  <H3> <u> <strong>-WCAG Samurai </strong> </u> </H3>
 
 In February 2008, The WCAG Samurai, a group of developers independent of the W3C,
 published corrections for, and extensions to, the WCAG 1.0.
