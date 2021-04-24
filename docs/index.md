@@ -26,7 +26,7 @@ Cyber security is important because government, military, corporate, financial, 
 <center> <img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="550" height="300">  </center>
 
 
- <H1> <center>  <u> <a href="internet.html">-Internet Security </a>  </center> </u> </H1> 
+ <H1>  <u> <center>   <a href="internet.html">-Internet Security </a>  </center> </u> </H1> 
 
 
 <center> <img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="550" height="300"> </center>
