@@ -12,7 +12,11 @@ Cyber security is important because government, military, corporate, financial, 
  
 <center> <img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="350" height="300"> </a> </center>
 
+
+
+
 <center> <a href="accesibility.html"> -Accesibility standards </a>  </center>
+
 
 
 <center> <img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="350" height="300"> </a> </center>
