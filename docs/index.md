@@ -9,7 +9,7 @@ Cyber security is important because government, military, corporate, financial, 
 ### Topics
   <center> <a href ="general.html"> -Digital Signature  </center>
  
- <center> <img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="350" height="300"> </a> </center>
+ <center> <img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="350" height="300">  </center>
 
 
 
@@ -18,18 +18,18 @@ Cyber security is important because government, military, corporate, financial, 
 
 
 
-<center> <img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="350" height="300"> </a> </center>
+<center> <img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="350" height="300">  </center>
 
 <center> <a href="object.html">-Object Oriented </a>  </center>
 
 
-<center> <img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="350" height="300"> </a> </center>
+<center> <img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="350" height="300">  </center>
 
 
 <center> <a href="internet.html">-Internet Security </a>  </center>
 
 
-<center> <img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="350" height="300"> </a> </center>
+<center> <img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="350" height="300"> </center>
 
 
 
