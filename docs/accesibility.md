@@ -10,7 +10,7 @@ guidelines on how to create accessible websites. Governments are steadily adopti
 WCAG 2.0 as the accessibility standard for their own websites.
 
 
- <H3> <u> <strong>-WCAG 1.0 </strong> </u> </H3>  
+ <H2> <u> <strong>-WCAG 1.0 </strong> </u> </H2>  
 
 
 
@@ -65,13 +65,13 @@ described as AA or Double-A.
 some groups to access the Web content. Conformance to this level is described
 as AAA or Triple-A.
 
-  <H3> <u> <strong>-WCAG Samurai </strong> </u> </H3>
+  <H2> <u> <strong>-WCAG Samurai </strong> </u> </H2>
 
 In February 2008, The WCAG Samurai, a group of developers independent of the W3C,
 published corrections for, and extensions to, the WCAG 1.0.
 
 
-<strong>-WCAG 2.0</strong>
+ <H2> <u> <strong>-WCAG 2.0</strong>  </u> </H2>
 
 WCAG 2.0 was published as a W3C Recommendation on 11 December 2008. It consists of
 twelve guidelines (untestable) organized under four principles (websites must
@@ -82,7 +82,7 @@ periodically updated whereas the principles, guidelines and success criteria are
 do not change.
 
 
-<strong>-Principles</strong>
+  <H2> <u> <strong>-Principles</strong> </u> </H2>
 
 <strong>Perceivable</strong>
 Information and user interface components must be presentable to users in ways they can
@@ -101,7 +101,7 @@ simpler layout) without losing information or structure.
 - Guideline 1.4: Make it easier for users to see and hear content including separating
 foreground from background.
 
-<strong>-Operable</strong>
+ <H2> <u> <strong>-Operable</strong> </u> </H2>
 
 User interface components and navigation must be operable.
 
@@ -114,7 +114,7 @@ User interface components and navigation must be operable.
 - Guideline 2.4: Provide ways to help users navigate, find content, and determine
 where they are.
 
-<strong>-Understandable</strong>
+ <H2> <u> <strong>-Understandable</strong> </u> </H2>
 
 Information and the operation of user interface must be understandable.
 
@@ -124,7 +124,7 @@ Information and the operation of user interface must be understandable.
 
 - Guideline 3.3: Help users avoid and correct mistakes.
 
-<strong>-Robust</strong>
+ <H2> <u> <strong>-Robust</strong> </u> </H2>
 
 Content must be robust enough that it can be interpreted reliably by a wide variety of user
 agents, including assistive technologies.
@@ -137,7 +137,7 @@ redefined them. The WCAG working group maintains an extensive list of web access
 techniques and common failure cases for WCAG 2.0.
 
 
-<strong>-Criticism of WAI guidelines</strong>
+ <H2> <u> <strong>-Criticism of WAI guidelines</strong>  </u> </H2>
 
 
 There has been criticism of the W3C process, claiming that it does not sufficiently put the
@@ -155,7 +155,7 @@ based on Web Content Accessibility Guidelines 1.0.
 
 
 
-<iframe width="610" height="380" src="https://www.youtube.com/embed/b3QCe8GD40c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="480" src="https://www.youtube.com/embed/b3QCe8GD40c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
