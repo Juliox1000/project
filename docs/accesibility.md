@@ -1,4 +1,4 @@
- <strong> -Web Content Accessibility Guidelines </strong>
+  <H1> <u> <strong> -Web Content Accessibility Guidelines </strong>  </u> </H1>   
 
 
 In 1999 the Web Accessibility Initiative, a project by the World Wide Web
