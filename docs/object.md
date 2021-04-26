@@ -1,4 +1,7 @@
-What is Structured Programming
+<H2> <u> <strong> What is Structured Programming  </strong> </u>  </H2>
+
+
+
 Structured Programming divides a program into a set of functions or modules. Modular programming is another name for this. These functions have statements embraced inside curly braces. Each of these functions performs a subtask. Usually, as each function represents a specific functionality, it is easier for the programmer to test and debug the code, but this can differ depending on the program. C language and Pascal are two common structured programming languages.
 
 Difference Between Structured and Object Oriented Programming
