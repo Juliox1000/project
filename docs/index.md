@@ -20,7 +20,7 @@ Cyber security is important because government, military, corporate, financial, 
 
 <center> <img src="https://internetdevels.com/sites/default/files/public/blog_preview/web_accessibility_standards_in_drupal8.jpg" width="550" height="300">  </center>
 
- <H1>   <u> <center> <a href="object.html">-Object Oriented </a>  </center> </u> </H1> 
+ <H1>   <u> <center> <a href="object.html">-Object Oriented programming vs structured programming </a>  </center> </u> </H1> 
 
 
 <center> <img src="https://images-na.ssl-images-amazon.com/images/I/41mtTiAs8fL._SX384_BO1,204,203,200_.jpg" width="550" height="300">  </center>
