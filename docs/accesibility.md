@@ -85,6 +85,12 @@ periodically updated whereas the principles, guidelines and success criteria are
 do not change.
 
 
+
+<img src="https://i.pinimg.com/originals/59/95/80/599580ba9bdcfc20cedf35d6ac79a9be.png" width="590" height="400">
+
+
+
+
   <H2> <u> <strong>-Principles</strong> </u> </H2>
 
 <strong>Perceivable</strong>
