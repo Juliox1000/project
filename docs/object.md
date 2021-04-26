@@ -10,7 +10,8 @@ In the structured programming C, the user can create his own user-defined functi
  <H2> <u> <strong> What is Object Oriented Programming? </strong> </u>  </H2>
 
 
-Object oriented programming allows the programmer to represent real-world scenarios using objects. An object is any entity that has states and behaviours. States represent the attributes or data of an object, whereas the methods represent the behaviours of objects. Student, Employee, Book etc. are objects. These objects interact with other objects by passing messages. Furthermore, a class is a blueprint for creating an object. It is necessary to have a class to create objects. For example, to create an Employee object, there should be an Employee class.
+Object oriented programming allows the programmer to represent real-world scenarios using objects. An object is any entity that has states and behaviours. States represent the attributes or data of an object, whereas the methods represent the behaviours of objects. Student, Employee, Book etc. are objects. These objects interact with other objects by passing messages. Furthermore, a class is a blueprint for creating an object. It is necessary to have a class to create objects. For example, to create an Employee object, there should be an Employee class. 
+
 
 
 
@@ -40,5 +41,10 @@ Also, it is difficult to reuse code in structured programming, whereas it is eas
 
  <H3> <u> <strong> Conclusion  </strong> </u>  </H3>
 Overall, structured and object oriented programming are two major programming paradigms. The main difference between structured and object oriented programming is that structured programming helps to develop a program using a set of modules or functions while object oriented programming helps to construct a program using a set of objects and their interactions.
+
+
+
+<img src="https://blog.signaturit.com/hubfs/19-jun-18-twitter-blog-eng.png" width="550" height="600">
+
 
 
