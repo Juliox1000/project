@@ -38,7 +38,7 @@ There are a number of different ways of categorizing malware; the first is by ho
 <H3> <u> <strong> -A virus   </strong> </u> </H3> is a piece of computer code that inserts itself within the code of another standalone program, then forces that program to take malicious action and spread itself.
  
 
--<H3> <u> <strong> A trojan  </strong> </u> </H3> is a program that cannot reproduce itself but masquerades as something the user wants and tricks them into activating it so it can do its damage and spread.
+<H3> <u> <strong> -A trojan  </strong> </u> </H3> is a program that cannot reproduce itself but masquerades as something the user wants and tricks them into activating it so it can do its damage and spread.
 
 Malware can also be installed on a computer "manually" by the attackers themselves, either by gaining physical access to the computer or using privilege escalation to gain remote administrator access. 
 
