@@ -44,7 +44,7 @@ Malware can also be installed on a computer "manually" by the attackers themselv
 
 Another way to categorize malware is by what it does once it has successfully infected its victim's computers. There are a wide range of potential attack techniques used by malware:
 
- -<H3> <u> <strong> Spyware  </strong> </u> </H3> is defined by Webroot Cybersecurity as "malware used for the purpose of secretly gathering data on an unsuspecting user." In essence, it spies on your behavior as you use your computer, and on the data you send and receive, usually with the purpose of sending that information to a third party. A keylogger is a specific kind of spyware that records all the keystrokes a user makes—great for stealing passwords.
+ <H3> <u> <strong> -Spyware  </strong> </u> </H3> is defined by Webroot Cybersecurity as "malware used for the purpose of secretly gathering data on an unsuspecting user." In essence, it spies on your behavior as you use your computer, and on the data you send and receive, usually with the purpose of sending that information to a third party. A keylogger is a specific kind of spyware that records all the keystrokes a user makes—great for stealing passwords.
  
  
  <img src="https://qph.fs.quoracdn.net/main-qimg-93bebfea66e49fdb34d491c80e523fb1" width="450" height="500">
