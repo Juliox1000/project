@@ -1,25 +1,10 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>HTML: Text emphasis</title>
-    </head>
-    <body>
+Active Attacks:
+Active attacks are the type of attacks in which, The attacker efforts to change or modify the content of messages. Active Attack is danger for Integrity as well as availability. Due to active attack system is always damaged and System resources can be changed. The most important thing is that, In active attack, Victim gets informed about the attack.
 
-    <h1>All about cybersecurity!</h1>
-    
-    <h2>Basic info</h2>
-    
-    <p>Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.
 
-Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people, and attackers are becoming more innovative.</p>
-    
-    <h2>Topics</h2>
-    
-    <p>Digital Signature. <br>
- Object oriented. <br>
-Accesibility Standarts <br>
-Security </p>
 
-    </body>
-</html>
+
+
+
+Passive Attacks:
+Passive Attacks are the type of attacks in which, The attacker observes the content of messages or copy the content of messages. Passive Attack is danger for Confidentiality. Due to passive attack, there is no any harm to the system. The most important thing is that In passive attack, Victim does not get informed about the attack.
