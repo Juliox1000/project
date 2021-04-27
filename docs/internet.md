@@ -38,10 +38,10 @@ There are a number of different ways of categorizing malware; the first is by ho
 <H3> <u> <strong> -A virus   </strong> </u> </H3> is a piece of computer code that inserts itself within the code of another standalone program, then forces that program to take malicious action and spread itself.
  
 
-A trojan is a program that cannot reproduce itself but masquerades as something the user wants and tricks them into activating it so it can do its damage and spread.
+-<H3> <u> <strong> A trojan  </strong> </u> </H3> is a program that cannot reproduce itself but masquerades as something the user wants and tricks them into activating it so it can do its damage and spread.
 
 Malware can also be installed on a computer "manually" by the attackers themselves, either by gaining physical access to the computer or using privilege escalation to gain remote administrator access. 
 
 Another way to categorize malware is by what it does once it has successfully infected its victim's computers. There are a wide range of potential attack techniques used by malware:
 
-Spyware is defined by Webroot Cybersecurity as "malware used for the purpose of secretly gathering data on an unsuspecting user." In essence, it spies on your behavior as you use your computer, and on the data you send and receive, usually with the purpose of sending that information to a third party. A keylogger is a specific kind of spyware that records all the keystrokes a user makes—great for stealing passwords.
+ -<H3> <u> <strong> Spyware  </strong> </u> </H3> is defined by Webroot Cybersecurity as "malware used for the purpose of secretly gathering data on an unsuspecting user." In essence, it spies on your behavior as you use your computer, and on the data you send and receive, usually with the purpose of sending that information to a third party. A keylogger is a specific kind of spyware that records all the keystrokes a user makes—great for stealing passwords.
