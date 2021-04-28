@@ -75,7 +75,7 @@ If you want to achieve a perfect firewall, then you can consider installing both
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GXbqFBKwM2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  <H1> <u> <strong> Network protocols   </strong>  <u> </H1> 
+  <H1> <u> <strong> Network protocols   </strong>  </u> </H1> 
  
 On Sept 11, 2006, ICANN “ratified a global policy for the allocation of IPv6 addresses by the Internet Assigned Numbers Authority (IANA)”. While the standard itself was ratified many years (like a decade) before, without a policy governing the allocation of those addresses it really wasn’t all that significant. But as of 2006 we were serious about moving toward IPv6. After all, the web was growing, mobile was exploding, and available IPv4 addresses were dwindling to nothing.
 
