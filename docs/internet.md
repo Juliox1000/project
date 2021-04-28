@@ -77,35 +77,32 @@ If you want to achieve a perfect firewall, then you can consider installing both
 
   <H1> <u> <strong> Network protocols   </strong>  <u> </H1> 
  
- The Internet Protocol (IP) is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.
+On Sept 11, 2006, ICANN “ratified a global policy for the allocation of IPv6 addresses by the Internet Assigned Numbers Authority (IANA)”. While the standard itself was ratified many years (like a decade) before, without a policy governing the allocation of those addresses it really wasn’t all that significant. But as of 2006 we were serious about moving toward IPv6. After all, the web was growing, mobile was exploding, and available IPv4 addresses were dwindling to nothing.
 
-IP has the task of delivering packets from the source host to the destination host solely based on the IP addresses in the packet headers. For this purpose, IP defines packet structures that encapsulate the data to be delivered. It also defines addressing methods that are used to label the datagram with source and destination information.
+We needed IPv6 if not for its enhanced security then for its expanded address space that would allow us to support billions of connected devices and things.
 
-Historically, IP was the connectionless datagram service in the original Transmission Control Program introduced by Vint Cerf and Bob Kahn in 1974, which was complemented by a connection-oriented service that became the basis for the Transmission Control Protocol (TCP). The Internet protocol suite is therefore often referred to as TCP/IP.
+And yet the adoption rate is abysmal. Consider that “the cloud” was born in an age when IPv6 was available. And yet it took until late 2016 for Amazon AWS and Microsoft Azure to turn on IPv6 in their cloud offerings for compute instances.  
 
-The first major version of IP, Internet Protocol Version 4 (IPv4), is the dominant protocol of the Internet. Its successor is Internet Protocol Version 6 (IPv6), which has been in increasing deployment on the public Internet since c. 2006.
+This has led some to lamenting that if we can get HTTPS almost everywhere in such a short time, why are we still seeing such a small percentage of sites supporting IPv6? Google estimates that 16.06% of users are IPv6 enabled (which is interesting when compared to service providers support as tracked by the World IPv6 Launch) but only 10% of web sites (according to W3C Techs) support it.
 
-  <H2> <u> <strong> Function <H2> <u> <strong>
+<img src="https://www.f5.com/content/dam/f5-com/page-assets-en/home-en/company/blog/2017/site_support_ipv6_http2.png" height="402" widht="400">
 
-In May 1974, the Institute of Electrical and Electronics Engineers (IEEE) published a paper entitled "A Protocol for Packet Network Intercommunication".[4] The paper's authors, Vint Cerf and Bob Kahn, described an internetworking protocol for sharing resources using packet switching among network nodes. A central control component of this model was the "Transmission Control Program" that incorporated both connection-oriented links and datagram services between hosts. The monolithic Transmission Control Program was later divided into a modular architecture consisting of the Transmission Control Protocol and User Datagram Protocol at the transport layer and the Internet Protocol at the internet layer. The model became known as the Department of Defense (DoD) Internet Model and Internet protocol suite, and informally as TCP/IP.
+site support ipv6 http2
+To be fair, HTTPS was not new. EFF was merely encouraging and empowering folks to enable what was already at their fingertips. HTTPS is well-supported, well-understood, and thoroughly baked. So perhaps it would be more fair to compare it to a newer standard, one with similar drawbacks such as incompatibility with previous standards, like HTTP/2.
 
-IP versions 1 to 3 were experimental versions, designed between 1973 and 1978.[5] The following Internet Experiment Note (IEN) documents describe version 3 of the Internet Protocol, prior to the modern version of IPv4:
+Back in May 2015, a new version of a stalwart web standard was ratified: HTTP/2. Like IPv6, it is incompatible with previous versions. Unlike “SSL Everywhere”, supporting IPv6 or HTTP/2 is not simply a case of acquiring a certificate and enabling HTTPS on your web servers or infrastructure. While it’s true that moving from HTTP to HTTPS can be disruptive – it can impact your network infrastructure – it’s not the same level of disruption as incurred by IPv6 or HTTP/2.
 
-IEN 2 (Comments on Internet Protocol and TCP), dated August 1977 describes the need to separate the TCP and Internet Protocol functionalities (which were previously combined.) It proposes the first version of the IP header, using 0 for the version field.
-IEN 26 (A Proposed New Internet Header Format), dated February 1978 describes a version of the IP header that uses a 1-bit version field.
-IEN 28 (Draft Internetwork Protocol Description Version 2), dated February 1978 describes IPv2.
-IEN 41 (Internetwork Protocol Specification Version 4), dated June 1978 describes the first protocol to be called IPv4. The IP header is different from the modern IPv4 header.
-IEN 44 (Latest Header Formats), dated June 1978 describes another version of IPv4, also with a header different from the modern IPv4 header.
-IEN 54 (Internetwork Protocol Specification Version 4), dated September 1978 is the first description of IPv4 using the header that would be standardized in RFC 760.
-The dominant internetworking protocol in the Internet Layer in use is IPv4; the number 4 identifies the protocol version, carried in every IP datagram. IPv4 is described in RFC 791 (1981).
+Moving to new foundational protocols requires a transitional approach; one that requires support for both the old and the new simultaneously until some future point in time. That means “dual-stacks” for every device through which traffic might flow. This is a Herculean effort for some organizations, and an architectural nightmare for others. Just as software incurs technical debt, networks incur architectural debt, and it is likely the case that the “interest payments” on that architectural debt make it difficult to build a valid case for adopting IPv6. After all, it’s not like it’s a requirement or anything. Business will continue if you don’t support IPv6.
 
-Version number 5 was used by the Internet Stream Protocol, an experimental streaming protocol that was not adopted.[5]
+Or will it?
 
-The successor to IPv4 is IPv6. IPv6 was a result of several years of experimentation and dialog during which various protocol models were proposed, such as TP/IX (RFC 1475), PIP (RFC 1621) and TUBA (TCP and UDP with Bigger Addresses, RFC 1347). Its most prominent difference from version 4 is the size of the addresses. While IPv4 uses 32 bits for addressing, yielding c. 4.3 billion (4.3×109) addresses, IPv6 uses 128-bit addresses providing ca. 3.4×1038 addresses. Although adoption of IPv6 has been slow, as of June 2008, all United States government systems have demonstrated basic infrastructure support for IPv6.[6]
+Let’s remember that originally, HTTP/2 was going to require TLS/SSL. There was some grumbling and eventually it was made optional. Browser builders blithely ignored that and only provided support for HTTP/2 over TLS/SSL, effectively forcing the requirement on everyone. In late 2015 Google began prioritizing HTTPS-enabled sites in search rankings. And in 2016, Apple made similar moves that required all native apps to use App Transport Security, again effectively forcing the move to HTTPS.
 
-The assignment of the new protocol as IPv6 was uncertain until due diligence assured that IPv6 had not been used previously.[7] Other Internet Layer protocols have been assigned version numbers,[8] such as 7 (IP/TX), 8 and 9 (historic). Notably, on April 1, 1994, the IETF published an April Fools' Day joke about IPv9.[9] IPv9 was also used in an alternate proposed address space expansion called TUBA.
- 
- 
+Basically, HTTPS has been forced by those on the client side to support it.
+
+For IPv6 right now there’s no similar requirement. We all watched as IPv4 addresses disappeared but it had relatively little or no impact. So no one feels a real impetus (yet) to make a move that’s potentially going to be disruptive and expensive. But as more things emerge it’s entirely possible that they’ll eventually come out of the box supporting only IPv6. Things have small form factors and their processing power is limited. Less is more in the Internet of Things. That’s one of the reasons many IoT devices eschew HTTP in favor of MQTT; it’s smaller, faster, and more efficient than its heavier web cousin. Supporting both IPv4 and IPv6 is similar. Because they are incompatible most devices support one or the other. And eventually they’re going to choose one and everyone will be scrambling to support it.
+
+
  
  
  
