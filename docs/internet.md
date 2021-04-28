@@ -100,13 +100,25 @@ Let’s remember that originally, HTTP/2 was going to require TLS/SSL. There was
 
 Basically, HTTPS has been forced by those on the client side to support it.
 
-For IPv6 right now there’s no similar requirement. We all watched as IPv4 addresses disappeared but it had relatively little or no impact. So no one feels a real impetus (yet) to make a move that’s potentially going to be disruptive and expensive. But as more things emerge it’s entirely possible that they’ll eventually come out of the box supporting only IPv6. Things have small form factors and their processing power is limited. Less is more in the Internet of Things. That’s one of the reasons many IoT devices eschew HTTP in favor of MQTT; it’s smaller, faster, and more efficient than its heavier web cousin. Supporting both IPv4 and IPv6 is similar. Because they are incompatible most devices support one or the other. And eventually they’re going to choose one and everyone will be scrambling to support it.
+For IPv6 right now there’s no similar requirement. We all watched as IPv4 addresses disappeared but it had relatively little or no impact. So no one feels a real impetus (yet) to make a move that’s potentially going to be disruptive and expensive. But as more things emerge it’s entirely possible that they’ll eventually come out of the box supporting only IPv6. Things have small form factors and their processing power is limited. Less is more in the Internet of Things. That’s one of the reasons many IoT devices eschew HTTP in favor of MQTT; it’s smaller, faster, and more efficient than its heavier web cousin. Supporting both IPv4 and IPv6 is similar. Because they are incompatible most devices support one or the other. And eventually they’re going to choose one and everyone will be scrambling to support.
 
 
+   <H2> <u> <strong> Digital certificates and certificate authorities  </strong>  </u> </H1> 
  
- 
- 
- 
+ What is a Digital Certificate
+Digital certificates are electronic credentials that are used to assert the online identities of individuals, computers, and other entities on a network. Digital certificates function similarly to identification cards such as passports and drivers licenses. Most commonly they contain a public key and the identity of the owner. They are issued by certification authorities (CAs) that must validate the identity of the certificate-holder both before the certificate is issued and when the certificate is used. Common uses include business scenarios requiring authentication, encryption, and digital signing.
+Certificate Purposes
+The certificate purpose defines the intended primary use of the certificate. The certificate purpose can be one of four settings:
+
+Encryption. A certificate with this purpose will contain cryptographic keys for encryption and decryption.
+Signature. A certificate with this purpose will contain cryptographic keys for signing data only.
+Signature and encryption. A certificate with this purpose covers all primary uses of a certificate’s cryptographic key, including encryption of data, decryption of data, initial logon, or digitally signing data.
+Signature and smartcard logon. A certificate with this purpose allows for initial logon with a smart card, and digitally signing data; it cannot be used for data encryption.
+SSL is probably the first protocol to use digital certificates. Now a days they are widely used where ever there is a need for signing and encryption.
+Certificate Authority
+A Certificate Authority (CA) issues digital certificates that contain a public key and the identity of the owner. The matching private key is not made available publicly, but kept secret by the end user who generated the key pair. The certificate is also a confirmation or validation by the CA that the public key contained in the certificate belongs to the person, organization, server or other entity noted in the certificate. A CA's obligation in such schemes is to verify an applicant's credentials, so that users and relying parties can trust the information in the CA's certificates. CAs use a variety of standards and tests to do so. In essence, the Certificate Authority is responsible for saying "yes, this person is who they say they are, and we, the CA, verify that".
+
+If the user trusts the CA and can verify the CA's signature, then he can also verify that a certain public key does indeed belong to whoever is identified in the certificate. Browsers maintain list of well known CAs root certificates.  Aside from commercial CAs, some providers issue digital certificates to the public at no cost. Large institutions or government entities may have their own CAs.
  
  
  
