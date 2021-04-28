@@ -1,4 +1,4 @@
-  <html>## What Is Cybersecurity?
+  ## What Is Cybersecurity?
 
 Cyber security refers to the body of technologies, processes, and practices designed to protect networks, devices, programs, and data from attack, damage, or unauthorized access. Cyber security may also be referred to as information technology security.
 
@@ -31,7 +31,6 @@ Cyber security is important because government, military, corporate, financial, 
 
 <center> <img src="https://antivirus.comodo.com/blog/wp-content/uploads/2019/03/why-internet-security.png" width="550" height="300"> </center>
 
-</html>
 
 
 
