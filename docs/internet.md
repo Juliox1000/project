@@ -114,7 +114,8 @@ Your network faces threats of all shapes and sizes, and thus should be prepared 
 
 Here are 14 different network security tools and techniques designed to help you do just that:
 
-Access control
+ <H3> <u> <strong> Access control </strong> </u> </H3>
+
 If threat actors can’t access your network, the amount of damage they’ll be able to do will be extremely limited. But in addition to preventing unauthorized access, be aware that even authorized users can also be potential threats. Access control allows you to increase your network security by limiting user access and resources to only the parts of the network that directly apply to individual users’ responsibilities.
 Anti-malware software
 Malware, in the form of viruses, trojans, worms, keyloggers, spyware, etc. are designed to spread through computer systems and infect networks. Anti-malware tools are a kind of network security software designed to identify dangerous programs and prevent them from spreading. Anti-malware and antivirus software may also be able to help resolve malware infections, minimizing the damage to the network.
@@ -128,7 +129,9 @@ Email security
 As with DLP, email security is focused on shoring up human-related security weaknesses. Via phishing strategies (which are often very complex and convincing), attackers persuade email recipients to share sensitive information via desktop or mobile device, or inadvertently download malware into the targeted network. Email security helps identify dangerous emails and can also be used to block attacks and prevent the sharing of vital data.
 Endpoint security
 The business world is becoming increasingly bring your own device (BYOD), to the point where the distinction between personal and business computer devices is almost nonexistent. Unfortunately, sometimes the personal devices become targets when users rely on them to access business networks. Endpoint security adds a layer of defense between remote devices and business networks.
-Firewalls
+
+ <H3> <u> <strong> Firewalls  </strong> </u> </H3>
+
 Firewalls function much like gates that can be used to secure the borders between your network and the internet. Firewalls are used to manage network traffic, allowing authorized traffic through while blocking access to non-authorized traffic.
 Intrusion prevention systems
 Intrusion prevention systems (also called intrusion detection) constantly scan and analyze network traffic/packets, so that different types of attacks can be identified and responded to quickly. These systems often keep a database of known attack methods, so as to be able to recognize threats immediately.
@@ -137,10 +140,13 @@ There are many kinds of network traffic, each associated with different security
 Security information and event management (SIEM)
 Sometimes simply pulling together the right information from so many different tools and resources can be prohibitively difficult — particularly when time is an issue. SIEM tools and software give responders the data they need to act quickly.
 Virtual private network (VPN)
-VPN tools are used to authenticate communication between secure networks and an endpoint device. Remote-access VPNs generally use IPsec or Secure Sockets Layer (SSL) for authentication, creating an encrypted line to block other parties from eavesdropping.
+VPN tools are used to authenticate communication between secure networks and an endpoint device. Remote-access VPNs generally use IPsec or Secure Sockets Layer (SSL) for 
+authentication, creating an encrypted line to block other parties from eavesdropping.
 Web security
+
 Including tools, hardware, policies and more, web security is a blanket term to describe the network security measures businesses take to ensure safe web use when connected to an internal network. This helps prevent web-based threats from using browsers as access points to get into the network.
 Wireless security
+
 Generally speaking, wireless networks are less secure than traditional networks. Thus, strict wireless security measures are necessary to ensure that threat actors aren’t gaining access.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GXbqFBKwM2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
