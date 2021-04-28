@@ -150,6 +150,36 @@ Wireless security
 Generally speaking, wireless networks are less secure than traditional networks. Thus, strict wireless security measures are necessary to ensure that threat actors aren’t gaining access.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GXbqFBKwM2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <H1> <u> <strong> Network protocols  <H1> <u> <strong>
+ 
+ The Internet Protocol (IP) is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.
+
+IP has the task of delivering packets from the source host to the destination host solely based on the IP addresses in the packet headers. For this purpose, IP defines packet structures that encapsulate the data to be delivered. It also defines addressing methods that are used to label the datagram with source and destination information.
+
+Historically, IP was the connectionless datagram service in the original Transmission Control Program introduced by Vint Cerf and Bob Kahn in 1974, which was complemented by a connection-oriented service that became the basis for the Transmission Control Protocol (TCP). The Internet protocol suite is therefore often referred to as TCP/IP.
+
+The first major version of IP, Internet Protocol Version 4 (IPv4), is the dominant protocol of the Internet. Its successor is Internet Protocol Version 6 (IPv6), which has been in increasing deployment on the public Internet since c. 2006.
+
+  <H2> <u> <strong> Function <H2> <u> <strong>
+
+In May 1974, the Institute of Electrical and Electronics Engineers (IEEE) published a paper entitled "A Protocol for Packet Network Intercommunication".[4] The paper's authors, Vint Cerf and Bob Kahn, described an internetworking protocol for sharing resources using packet switching among network nodes. A central control component of this model was the "Transmission Control Program" that incorporated both connection-oriented links and datagram services between hosts. The monolithic Transmission Control Program was later divided into a modular architecture consisting of the Transmission Control Protocol and User Datagram Protocol at the transport layer and the Internet Protocol at the internet layer. The model became known as the Department of Defense (DoD) Internet Model and Internet protocol suite, and informally as TCP/IP.
+
+IP versions 1 to 3 were experimental versions, designed between 1973 and 1978.[5] The following Internet Experiment Note (IEN) documents describe version 3 of the Internet Protocol, prior to the modern version of IPv4:
+
+IEN 2 (Comments on Internet Protocol and TCP), dated August 1977 describes the need to separate the TCP and Internet Protocol functionalities (which were previously combined.) It proposes the first version of the IP header, using 0 for the version field.
+IEN 26 (A Proposed New Internet Header Format), dated February 1978 describes a version of the IP header that uses a 1-bit version field.
+IEN 28 (Draft Internetwork Protocol Description Version 2), dated February 1978 describes IPv2.
+IEN 41 (Internetwork Protocol Specification Version 4), dated June 1978 describes the first protocol to be called IPv4. The IP header is different from the modern IPv4 header.
+IEN 44 (Latest Header Formats), dated June 1978 describes another version of IPv4, also with a header different from the modern IPv4 header.
+IEN 54 (Internetwork Protocol Specification Version 4), dated September 1978 is the first description of IPv4 using the header that would be standardized in RFC 760.
+The dominant internetworking protocol in the Internet Layer in use is IPv4; the number 4 identifies the protocol version, carried in every IP datagram. IPv4 is described in RFC 791 (1981).
+
+Version number 5 was used by the Internet Stream Protocol, an experimental streaming protocol that was not adopted.[5]
+
+The successor to IPv4 is IPv6. IPv6 was a result of several years of experimentation and dialog during which various protocol models were proposed, such as TP/IX (RFC 1475), PIP (RFC 1621) and TUBA (TCP and UDP with Bigger Addresses, RFC 1347). Its most prominent difference from version 4 is the size of the addresses. While IPv4 uses 32 bits for addressing, yielding c. 4.3 billion (4.3×109) addresses, IPv6 uses 128-bit addresses providing ca. 3.4×1038 addresses. Although adoption of IPv6 has been slow, as of June 2008, all United States government systems have demonstrated basic infrastructure support for IPv6.[6]
+
+The assignment of the new protocol as IPv6 was uncertain until due diligence assured that IPv6 had not been used previously.[7] Other Internet Layer protocols have been assigned version numbers,[8] such as 7 (IP/TX), 8 and 9 (historic). Notably, on April 1, 1994, the IETF published an April Fools' Day joke about IPv9.[9] IPv9 was also used in an alternate proposed address space expansion called TUBA.
  
  
  
