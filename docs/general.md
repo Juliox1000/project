@@ -59,12 +59,12 @@ We must admit that the need to have a card reader or NFC devices can be an obsta
 In any case, this is a way to gain time, comfort and legal support for all citizens who have access to administrative procedures, as well as the option of signing documents digitally with the help of a specialized software, such as the one offered by Viafirma.
 
 
+<img src="https://i.blogs.es/8c61c0/dni-movil/450_1000.jpg" width="550" height="300">
 
 
 
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ycTI_A9yhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
