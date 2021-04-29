@@ -169,4 +169,4 @@ based on Web Content Accessibility Guidelines 1.0.
 
 
 
-
+<H2>   <strong> <a href ="index.html"> -Go back to index </a> </strong>  </H2> 
