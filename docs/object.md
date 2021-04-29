@@ -51,4 +51,4 @@ Overall, structured and object oriented programming are two major programming pa
 <img src="https://pediaa.com/wp-content/uploads/2019/06/Difference-Between-Structured-and-Object-Oriented-Programming-Comparison-Summary.jpg" width="550" height="800">
 
 
-
+<H2>   <strong> <a href ="index.html"> -Go back to index </a> </strong>  </H2> 
