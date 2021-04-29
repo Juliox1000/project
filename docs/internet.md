@@ -128,5 +128,5 @@ If the user trusts the CA and can verify the CA's signature, then he can also ve
  
  
  
- <H2> <a href ="index.html"> -Go back to index </a>  </H2> 
+ <H2>   <strong> <a href ="index.html"> -Go back to index </a> </strong>  </H2> 
  
